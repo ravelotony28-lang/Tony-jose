@@ -1,3 +1,3 @@
 # Tony-jose
 App para mí bodega 
-const WHATSAPP_NUMBER = "584242520138";
+const WHATSAPP_NUMBER = "3233630356";
